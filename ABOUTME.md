@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Naisko
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Python/Lua
+- 📫 Social Media : twitch.tv/naiskooh , twiter  @NxtErwan , discord : Naisko ⁶₆⁷#7156.
